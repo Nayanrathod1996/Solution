@@ -1,7 +1,7 @@
 public class SwapString {
     public static void main(String[] args) {
         
-        //  Problem 4:  Swap two Strings Without Using any Third Variable
+        /*   Problem 4:  Swap two Strings Without Using any Third Variable */
 
         String a ="Hello";
         String b="World";
