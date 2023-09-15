@@ -2,7 +2,7 @@ public class ArrayMinMax {
     public static void main(String[] args) {
         int numbers[] = new int[]{1,2,3,4,5};
         
-// Problem 3:  Biggest and smallest number in an array
+/*Problem 3:  Biggest and smallest number in an array*/
 
 
         int smallest = numbers[0];
