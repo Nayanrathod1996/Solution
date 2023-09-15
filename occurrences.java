@@ -3,10 +3,11 @@ import java.util.Scanner;
 public class occurrences {
     public static void main(String[] args) {
        
-        // Problem 1: Program to count occurrences of a given character in a string.
+        /*Problem 1: Program to count occurrences of a given character in a string.
+         Please enter only GeeksforGeeks ,abccdefgaa. For Best Result */
+         
         System.out.println("Enter The String");
         Scanner sc=new Scanner(System.in);
-        // Please enter only GeeksforGeeks ,abccdefgaa. For Best Result
         String Name = sc.next();
         char c='e';
         char d='a';
