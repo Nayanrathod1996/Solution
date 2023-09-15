@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Palindrom {
     public static void main(String[] args) {
         
-        //  Problem 2:  Determine whether a given string is Palindrome
+        /*   Problem 2:  Determine whether a given string is Palindrome */
 
         System.out.println("Enter The String Value");
         Scanner sc =new Scanner(System.in);
